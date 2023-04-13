@@ -24,6 +24,7 @@ Lab: 1
 ![image](https://user-images.githubusercontent.com/58992611/231841759-1b3eadcf-d412-4e30-a855-9e50f48577d6.png)
 
 ***2 часть***
+
 **Цель:** изучить построение сети IP-телефонии с помощью маршрутизатора, коммутатора и IP телефонов 7960 в среде Cisco Packet tracer.
 Создаем новую схему соединения
 ![image](https://user-images.githubusercontent.com/58992611/231841812-811e1f7f-c784-495e-b7ad-6ead180208e3.png)
