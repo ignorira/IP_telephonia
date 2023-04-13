@@ -2,7 +2,7 @@ Faculty: ICT
 
 Course: Network programming
 
-Year: 2022
+Year: 2023
 
 Group: K34212
 
